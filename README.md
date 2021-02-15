@@ -5,4 +5,4 @@ The Beninese Collegiate Programming Contest is a competition that pits teams of 
 
 Here I present you the problems and solutions of the different problems we solved.
 
-You can also consult the explanations of the solutions on my [blog](samirmaoude.github.io).
+You can also consult the explanations of the solutions on my [blog](https://samirmaoude.github.io).
